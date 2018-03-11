@@ -1,0 +1,8 @@
+git clone: clone an project from the web to local computer
+git add filename: add an file
+git commit -m 'description': save the current file, add a desciption to it. save a snapshot.
+git status: show the current status of the file
+git pull: fetch a latest remote file from the web and merge into your current project 
+merge conflict(not a command): when your local projects modified the same postion with remote projects, and you git pull a remote projects, the computer let you reslove the confilict by hand
+git log: show this project's history
+git reset --hard sth: reset to a older version 
